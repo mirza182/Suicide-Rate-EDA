@@ -9,7 +9,7 @@ The objective of this case study is to explore suicide rates globally, identify 
 ## Data Overview
 We will be using a dataset containing suicide rates from 1985 to 2016. The dataset includes the following attributes:
 
-Country: The country where the suicides occurred.
+Country: The country where the suicides occurred.\
 Year: The year of the recorded suicides.
 Sex: Gender (male or female).
 Age: Suicide age range (divided into six categories). 
