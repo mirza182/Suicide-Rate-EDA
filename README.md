@@ -12,7 +12,7 @@ We will be using a dataset containing suicide rates from 1985 to 2016. The datas
 Country: The country where the suicides occurred.
 Year: The year of the recorded suicides.
 Sex: Gender (male or female).
-Age: Suicide age range (divided into six categories).
+Age: Suicide age range (divided into six categories). 
 Suicides_no: The number of suicides.
 Population: Population of that sex, in that age range, in that country, and in that year.
 Suicides/100k pop: Number of suicides per 100,000 population.
